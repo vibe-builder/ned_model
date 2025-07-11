@@ -1,6 +1,6 @@
-# NED Model: Neural Efficient Decoder
+# NED Model
 
-Hey folks, been tinkering with state space models lately after reading that Mamba paper. Put together this implementation I'm calling NED (Neural Efficient Decoder). It's got some solid features like multi-head selective scanning, mixture of experts for scaling, optional hybrid attention, and Triton-optimized kernels. Nothing revolutionary, just a practical PyTorch take on efficient sequence modeling.
+Hey folks, been tinkering with state space models lately after reading that Mamba paper. Put together this implementation I'm calling NED. It's got some solid features like multi-head selective scanning, mixture of experts for scaling, optional hybrid attention, and Triton-optimized kernels. Nothing revolutionary, just a practical PyTorch take on efficient sequence modeling.
 
 ## Features
 
