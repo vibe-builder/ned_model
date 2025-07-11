@@ -1,0 +1,49 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+*.whl
+
+# Logs
+*.log
+
+# Tests
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+
+# Large files (optional, uncomment if needed)
+# mamba-130m/model.safetensors 
